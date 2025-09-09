@@ -34,7 +34,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/sankha4567/My-Jotion.git
+git clone https://github.com/sankha4567/NoteVibe.git
 ```
 
 ### Install packages
